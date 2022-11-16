@@ -1,4 +1,5 @@
 # nevsahbeydz
+www.patika.dev
 patika dev projesi
 Selection sort projesi
 Proje 1
